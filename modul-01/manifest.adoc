@@ -1,1 +1,27 @@
 = Hammertime Manifest
+
+Hammertime steht grundsätzlich jedem offen und schließt niemanden aus. Wer sich bei Hammertime engagiert, sollte folgender Grundhaltung folgen.
+
+== Für die persönliche Entwicklung
+
+Wir denken, dass Handwerk, Kunst, Technologie und Bildung von grundlegender Bedeutung für die Entwicklung eines Menschen sind. Das gilt insbesondere für junge Menschen, aber auch für alle, die geistig agil bleiben wollen. Wir ermöglichen und unterstützen lebenslanges Lernen.
+
+== Für Fairness
+
+Ohne einen fairen Umgang mit Menschen, Arbeitsplätzen und Materialen ist die Arbeit in einer geteilten Werkstatt nicht möglich. Absprachen sollten für alle transparent getroffen und möglichst eingehalten werden. Kann eine Absprache nicht gehalten werden, sollte dies allen möglichst früh und transparent mitgeteilt werden.
+
+== Für das Teilen
+
+Jeder Mensch besitzt individuelle Fähigkeiten und Kenntnisse, aber ebenso Defizite und Neugier. Wir teilen unser Wissen und Können mit der Gemeinschaft. Wir helfen und unterstützen uns gegenseitig. So sind wir mehr als die Summe unserer Teile. Zudem unterstützen wir den Open Source-Gedanken: Wissen sollte allen frei zur Verfügung stehen. Über den Grad des Teilens kann jedoch jeder selbst entscheiden.
+
+== Für die Gemeinschaft
+
+Wir teilen uns nicht nur den Ort und die Materialien, sondern verstehen uns als Gemeinschaft. Jeder, der unsere Werte teilt, ist herzlich willkommen – unabhängig von Alter, Geschlecht, Herkunft oder Biographie.
+
+== Für die Gesellschaft
+
+Was wir tun, soll nicht nur uns persönlich oder unserer Gemeinschaft nutzen, sondern möglichst auch der Gesellschaft, dessen Teil wir sind.
+
+== Für Nachhaltigkeit
+
+Der nachhaltige Umgang mit Ressourcen ist uns ein hohes Anliegen. Wir wollen die negativen Auswirkungen unserer Konsum- und Wegwerfgesellschaft reduzieren, indem wir eigene Dinge erschaffen und lieben lernen. Statt Dinge wegzuwerfen und neu zu kaufen, versuchen wir, Dinge zu erhalten und reparieren. Abfälle, die bei unseren Arbeiten entstehen, versuchen wir wiederzuverwenden oder zu recyclen.
