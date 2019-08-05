@@ -1,2 +1,9 @@
-# hammer-os
-Hammer OS - Hammertime's social operating system
+# Hammer OS - Hammer OS - Hammertime's social operating system
+
+## About
+
+TODO
+
+## Contribute
+
+TODO
